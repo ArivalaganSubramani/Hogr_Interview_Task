@@ -1,0 +1,13 @@
+com.example.hogr_interview_task.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Admin\.gradle\caches\transforms-3\308a0857d9511b986a0a28ab79a43195\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.hogr_interview_task.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Admin\.gradle\caches\transforms-3\51f2918890fffa8ac42351fd708db86a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.hogr_interview_task.app-jetified-window-1.0.0-beta04-2 C:\Users\Admin\.gradle\caches\transforms-3\5a3ba33da1e4eacc760d15398561baf7\transformed\jetified-window-1.0.0-beta04\res
+com.example.hogr_interview_task.app-core-1.6.0-3 C:\Users\Admin\.gradle\caches\transforms-3\cf73cc8a4ba953430926b62a90018a2f\transformed\core-1.6.0\res
+com.example.hogr_interview_task.app-debug-4 C:\Users\Admin\Desktop\mobile\hogr_interview_task\android\app\src\debug\res
+com.example.hogr_interview_task.app-main-5 C:\Users\Admin\Desktop\mobile\hogr_interview_task\android\app\src\main\res
+com.example.hogr_interview_task.app-pngs-6 C:\Users\Admin\Desktop\mobile\hogr_interview_task\build\app\generated\res\pngs\debug
+com.example.hogr_interview_task.app-resValues-7 C:\Users\Admin\Desktop\mobile\hogr_interview_task\build\app\generated\res\resValues\debug
+com.example.hogr_interview_task.app-rs-8 C:\Users\Admin\Desktop\mobile\hogr_interview_task\build\app\generated\res\rs\debug
+com.example.hogr_interview_task.app-mergeDebugResources-9 C:\Users\Admin\Desktop\mobile\hogr_interview_task\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.hogr_interview_task.app-mergeDebugResources-10 C:\Users\Admin\Desktop\mobile\hogr_interview_task\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.hogr_interview_task.app-merged_res-11 C:\Users\Admin\Desktop\mobile\hogr_interview_task\build\app\intermediates\merged_res\debug
+com.example.hogr_interview_task.app-packaged_res-12 C:\Users\Admin\Desktop\mobile\hogr_interview_task\build\path_provider_android\intermediates\packaged_res\debug

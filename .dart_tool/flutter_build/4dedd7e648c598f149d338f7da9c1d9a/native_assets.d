@@ -1,0 +1,1 @@
+ C:\\Users\\Admin\\Desktop\\mobile\\hogr_interview_task\\.dart_tool\\flutter_build\\4dedd7e648c598f149d338f7da9c1d9a\\native_assets.yaml: 
